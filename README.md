@@ -6,6 +6,17 @@ Note: This repository contains codes for windows platform only, if you want to u
 >access my android screen so that, i can perform image procssing
 >and do some automation tasks like... making Game bots.
 
+### Required Modules
+```
+>> pip install opencv-contrib-python
+>> pip install numpy
+>> pip install pyautogui
+>> pip install imutils
+>> pip install pillow
+>> pip install psutils
+>> pip install zipfile
+```
+
 ### Problem
 * I didn't knew any way to stream the android display to my pc.
 * Though i found several applications like `apower mirror`, but it was paid application.
