@@ -24,7 +24,7 @@ Step 1:
 
 Open up `Developer options` inside your Android settings and turn on `USB Debugging`
 
-![USB Debugging](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/usb-debugging.png | width=200)
+![USB Debugging](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/usb-debugging.png)
 
 Step 2:
 
