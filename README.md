@@ -64,10 +64,10 @@ Next open up screen shot using `MS Paint` we are doing this to know the coordina
 
 ![screen coordinates](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/left-point.png)
 
-> as in the picture above you can see, i have marked a small red dot on top left corner of our Android screen, do the same thing with your screen shot image and in the lower left corner you will, see the cordinates.. i ahve marked them in red circle
+> as in the picture above you can see, i have marked a small red dot on top left corner of our Android screen, do the same thing with your screen shot image and in the lower left corner you will see the coordinates.. i have marked them in red circle
 its `174,31`
 
-> Do the same thing for lower left corner as shown in below image and note the coordinates somewhere.
+> Do the same thing for lower right corner as shown in the below image and note the coordinates somewhere.
 
 ![screen coordinates](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/right-point.png)
 
