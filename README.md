@@ -55,7 +55,7 @@ So, if everything goes fine, after `5th Frame`, you will see, a black dot on you
 
 ![result](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/final-show.png)
 
-* if you want to touch at different coordinate on you phone you can pass the coordinate on `line 104`*
+* if you want to touch at different coordinate on your phone you can pass the coordinate on `line 104`*
 * `p.s dont't follow the line number shown in image below`
 
 ![code snippet](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/touch-coordinates.png)
