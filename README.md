@@ -64,5 +64,7 @@ if you face any issues, let me know.. we will figure it out together.
 any contributions are most welcom.
 
 Hit me on twitter: @imneonizer
+
 contact: mneonizer@gmail.com
+
 insta: the.nitin.rai
