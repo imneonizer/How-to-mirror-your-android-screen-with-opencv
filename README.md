@@ -6,7 +6,7 @@ Note: This repository contains codes for windows platform only, if you want to u
 >access my android screen so that, i can perform image procssing
 >and do some automation tasks like... making Game bots.
 
-### Problems
+### Problem
 * I didn't knew any way to stream the android display to my pc.
 * Though i found several applications like `apower mirror`, but it was paid application.
 * i wanted to interact with the screen itself, but the only way i found was to use my pc's cursor to manually touch the screen from my pc.
