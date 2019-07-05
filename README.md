@@ -28,7 +28,7 @@ Open up `Developer options` inside your Android settings and turn on `USB Debugg
 
 Step 2:
 
-Install this app `a paper` from Play Store. we will use this app to test if our script is sending touch inputs to our Android phone.
+Install this app [a paper](https://play.google.com/store/apps/details?id=jp.gr.java_conf.pepperretas.apaper&hl=en) from Play Store. we will use this app to test if our script is sending touch inputs to our Android phone.
 
 Step 3:
 
