@@ -69,4 +69,4 @@ Hit me on twitter: @imneonizer
 
 contact: mneonizer@gmail.com
 
-insta: the.nitin.rai
+insta: @the.nitin.rai
