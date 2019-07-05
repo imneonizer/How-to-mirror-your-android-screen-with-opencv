@@ -57,6 +57,24 @@ After all these steps are completed Arrange your Android screen and Command prom
 
 ![arrange-windows](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/arrange-windows.png)
 
+If you are running this program on your pc for the first time, you need to tell the program, where to look for the android screen on your whole computer screen to crop out only the region of interest as per your pc's screen resolution.
+
+Let me tell you how to do it, take a `screen shot` of your pc screen while, android screen is arranged on the half left side of your pc screen.
+Next open up screen shot using `MS Paint` we are doing this to know the coordinates of android screen.
+
+![screen coordinates](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/left-point.png)
+
+> as in the picture above you can see, i have marked a small red dot on top left corner of our Android screen, do the same thing with your screen shot image and in the lower left corner you will, see the cordinates.. i ahve marked them in red circle
+its `174,31`
+
+> Do the same thing for lower left corner as shown in below image and note the coordinates somewhere.
+
+![screen coordinates](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/right-point.png)
+
+> When all this is done you can openup `capture_android_Screen.py` and update those coordinates on `line 11` with yours.
+
+![line 11](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/android-screen-coordinates.png)
+
 Now finally you can go to Command prompt and `Hit Enter` to see the magic.
 > Before hitting Enter, make sure you have launched the app which we had previously downloaded [a paper](https://play.google.com/store/apps/details?id=jp.gr.java_conf.pepperretas.apaper&hl=en). and pinch in a little bit so that when touch event happens it would show a big black dot on the touched portion of the Android screen.
 
@@ -66,12 +84,11 @@ So, if everything goes fine, after `5th Frame`, you will see, a black dot on you
 
 ![result](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/final-show.png)
 
-* if you want to touch at different coordinate on your phone you can pass the coordinate on `line 104`*
-* `p.s dont't follow the line number shown in image below`
+* if you want to touch at different coordinate on your phone you can pass the coordinate on `line 104`
 
 ![code snippet](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/touch-coordinates.png)
 
-> Vola! I knew you can do it too!
+> Vola! I knew you can do it!
 
 if you face any issues, let me know.. we will figure it out together.
 any contributions are most welcome.
