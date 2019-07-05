@@ -1,6 +1,7 @@
 # How-to-mirror-you-android-screen-with-opencv
 This repository contain tools and step by step explanation on "how to mirror your android screen with opencv" and send touch inputs via command line.
 
+Note: This repository contains codes for windows platform only, if you want to use it on linux or Mac OS you need to replace `scrcpy-win64` directory with your suported platform [click here](https://github.com/Genymobile/scrcpy) to download.
 >I was always curious to know a way so that i could be able to
 >access my android screen so that, i can perform image procssing
 >and do some automation tasks like... making Game bots.
