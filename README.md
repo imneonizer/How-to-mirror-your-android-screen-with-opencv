@@ -63,7 +63,7 @@ So, if everything goes fine, after `5th Frame`, you will see, a black dot on you
 > Vola! I knew you can do it too!
 
 if you face any issues, let me know.. we will figure it out together.
-any contributions are most welcom.
+any contributions are most welcome.
 
 Hit me on twitter: @imneonizer
 
