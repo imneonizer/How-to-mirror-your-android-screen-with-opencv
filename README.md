@@ -24,7 +24,7 @@ Step 1:
 
 Open up `Developer options` inside your Android settings and turn on `USB Debugging`
 
-![USB Debugging](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/edit/master/documentation/usb-debugging.png)
+![USB Debugging](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/usb-debugging.png)
 
 Step 2:
 
@@ -34,30 +34,30 @@ Step 3:
 
 Ok! Now final time, lets launch our program `capture_android_Screen.py`
 
-![launch](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/edit/master/documentation/launch.png)
+![launch](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/launch.png)
 
 Output will be similar to below Image:
 
-![start-up](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/edit/master/documentation/start-up.png)
+![start-up](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/start-up.png)
 
 > Command prompt is showing instructions: `>> Press Enter to continue` , wait till your Android Screen shows up on your pc screen.
 
 After all these steps are completed Arrange your Android screen and Command prompt in the same manner as shown in below image.
 
-![arrange-windows](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/edit/master/documentation/arrange-windows.png)
+![arrange-windows](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/arrange-windows.png)
 
 Now finally you can go to Command prompt and `Hit Enter` to see the magic.
 > Before hitting Enter, make sure you have launched the app which we had previously downloaded `a paper`. and pinch in a little bit so that when touch event happens it would show a big black dot on the touched portion of the Android screen.
 
-![launched](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/edit/master/documentation/launch-app.png)
+![launched](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/launch-app.png)
 
 So, if everything goes fine, after `5th Frame`, you will see, a black dot on your Android screen. This means, we were able to register touch to our Android phone via command line.
 
-![result](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/edit/master/documentation/final-show.png)
+![result](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/final-show.png)
 
 * if you want to touch at different coordinate on you phone you can pass the coordinate on `line 95`
 
-![code snippet](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/edit/master/documentation/touch-coordinates.png)
+![code snippet](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/touch-coordinates.png)
 
 > Vola! I knew you can do it too!
 
