@@ -47,7 +47,7 @@ After all these steps are completed Arrange your Android screen and Command prom
 ![arrange-windows](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/arrange-windows.png)
 
 Now finally you can go to Command prompt and `Hit Enter` to see the magic.
-> Before hitting Enter, make sure you have launched the app which we had previously downloaded `a paper`. and pinch in a little bit so that when touch event happens it would show a big black dot on the touched portion of the Android screen.
+> Before hitting Enter, make sure you have launched the app which we had previously downloaded [a paper](https://play.google.com/store/apps/details?id=jp.gr.java_conf.pepperretas.apaper&hl=en). and pinch in a little bit so that when touch event happens it would show a big black dot on the touched portion of the Android screen.
 
 ![launched](https://github.com/imneonizer/How-to-mirror-you-android-screen-with-opencv/blob/master/documentation/launch-app.png)
 
