@@ -10,13 +10,13 @@ Note: This repository contains codes for windows platform only, if you want to u
 
 ### Required Modules
 ```
->> pip install opencv-contrib-python
->> pip install numpy
->> pip install pyautogui
->> pip install imutils
->> pip install pillow
->> pip install psutils
->> pip install zipfile
+pip install opencv-contrib-python
+pip install numpy
+pip install pyautogui
+pip install imutils
+pip install pillow
+pip install psutils
+pip install zipfile
 ```
 
 ### Problem
